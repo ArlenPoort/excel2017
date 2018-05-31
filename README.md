@@ -23,7 +23,7 @@
 <br>https://www.w3schools.com/xml/xpath_syntax.asp
 
 <br><br>
-<h3>API voor reistijden en afstanden</h3>
+<h3>Hoe lang duurt een reis van A naar B?</h3>
 <p>Documentatie over de Google Maps Distance Matrix API:
 <br>https://developers.google.com/maps/documentation/distance-matrix/intro
 <br><br>
