@@ -8,9 +8,9 @@
 <p>Vorig jaar werd het op 27 mei voor het eerst tropisch in De Bilt. In 2016 was dat op 20 juli. De vroegste officiële tropische dag ooit was op 9 mei in 1976. 
 <hr>
 <br><br>
-<p>Om te kunnen checken of het inderdaad de warmste 29 mei is sinds 1901, kunnen we terecht bij het KNMI: https://www.knmi.nl/nederland-nu/klimatologie/daggegevens
+<p>Om te kunnen checken of het inderdaad de warmste 29 mei was sinds 1901, kunnen we terecht bij het KNMI: https://www.knmi.nl/nederland-nu/klimatologie/daggegevens
   
-<br><br><br><br>
+<br><br><br>
 
 <h1>Een webservice gebruiken</h1>
 Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/master/excelAPI.xlsx
