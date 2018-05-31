@@ -1,14 +1,24 @@
 
-
-<h3>Officieel de eerste landelijke tropische dag</h3>
-<p>DE BILT (ANP) - De eerste landelijke tropische dag van het jaar is een feit. Om 14.40 uur werd het in De Bilt 30,7 graden, aldus Weeronline. Het is eveneens de warmste 29 mei sinds de metingen in 1901 zijn begonnen. Het oude dagrecord voor 29 mei stond op 30 graden en werd gemeten in 1944.
+<h1>Laten we het weer eens checken</h1>
+<h3><i>Officieel de eerste landelijke tropische dag</i></h3>
+<p>DE BILT (ANP) - De eerste landelijke tropische dag van het jaar is een feit. Om 14.40 uur werd het in De Bilt 30,7 graden, aldus Weeronline. <b>Het is eveneens de warmste 29 mei sinds de metingen in 1901 zijn begonnen.</b> Het oude dagrecord voor 29 mei stond op 30 graden en werd gemeten in 1944.
 <p>De laatste keer dat het in De Bilt tropisch warm werd is ruim elf maanden geleden, op 22 juni vorig jaar.
 <p>Het Gelderse Hupsel behaalde maandag al een plekje in de weer-recordlijst. Met 30 graden werd daar om 15.10 uur de eerste lokale tropische dag van 2018 behaald.
 <p>Vorig jaar werd het op 27 mei voor het eerst tropisch in De Bilt. In 2016 was dat op 20 juli. De vroegste officiële tropische dag ooit was op 9 mei in 1976. 
 
+<br><br>
+<h3>
 
 
 <br><br><br><br>
+
+<h1>Een webservice gebruiken</h1>
+<h3>De coördinaten bij een adres zoeken, zodat je ze op een kaart kunt zetten</h3>
+<p>Het Kadaster onderhoudt een zogeheten locatieservice, een zogeheten API. Daar kun je een verzoek naar sturen. En je krijgt een antwoord met de gewenste informatie. Meestal geven API's antwoord in de vorm van een xml- of json-document.
+<p>Informatie over de dienst van het Kadaster staat hier: https://github.com/PDOK/locatieserver/wiki/Zoekvoorbeelden-Locatieserver
+
+<br><br>
+
 <p>Hoe XPath precies werkt staat hier uitgelegd: 
 <br>https://www.w3schools.com/xml/xpath_syntax.asp
 
