@@ -47,3 +47,4 @@ Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/m
 <br><br>
 <h3>Trump Tweets</h3>
 <p>Het Trump Twitter Archive: https://github.com/bpb27/trump_tweet_data_archive
+<p>Maar om json te kunnen laden, heb je wel Excel Power Query nodig. Meer info daarover: https://support.office.com/nl-nl/article/inleiding-tot-microsoft-power-query-voor-excel-6e92e2f4-2079-4e1f-bad5-89f6269cd605
