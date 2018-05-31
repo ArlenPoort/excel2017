@@ -13,6 +13,9 @@
 <br><br><br><br>
 
 <h1>Een webservice gebruiken</h1>
+Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/master/excelAPI.xlsx
+<br><br>
+
 <h3>De coördinaten bij een adres zoeken, zodat je ze op een kaart kunt zetten</h3>
 <p>Het Kadaster onderhoudt een zogeheten locatieservice, een zogeheten API. Daar kun je een verzoek naar sturen. En je krijgt een antwoord met de gewenste informatie. Meestal geven API's antwoord in de vorm van een xml- of json-document.
 <p>Informatie over de dienst van het Kadaster staat hier: https://github.com/PDOK/locatieserver/wiki/Zoekvoorbeelden-Locatieserver
