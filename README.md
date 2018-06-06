@@ -21,6 +21,10 @@
   <li>De stappen tot nu toe zijn ook in <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI002.xlsx">dit Excel-bestand</A> te vinden.
   <li>We kunnen het bestand een beetje opschonen, door overbodige kolommen op te ruimen. Beter is het om alles toch te bewaren, maar in een nieuw werkblad wijzigingen aan te brengen.
   <li>Je ziet ook dat het KNMI geen decimalen gebruikt in de temperaturen. 23,1 graad wordt geschreven als 231. Om het voor ons beter leesbaar te maken, kunnen we die kolommen aanpassen. Dan zie je ook dat er overbodige spaties in de kolommen staan.
+  <li>Om het bestand toch een beetje handzaam, heb ik <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI003.xlsx">een nieuw Excel-bestand</A> gemaakt met alleen de relevante gegevens.
+  <li>
+  <li>
+  <li>
   <li>
   <li>
   <li>
