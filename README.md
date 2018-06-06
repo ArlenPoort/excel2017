@@ -18,9 +18,9 @@
   <li>De tabel met de data is gevormd als een csv: comma separated values. Die kunnen we netjes in kolommen plakken met 'gegevens->tekst naar kolommen'
   <li>Het datumveld is ingedeeld als 'jjjjmmdd'. Zo kun je het makkelijk sorteren, maar Excel herkent dit niet als datum. Met de functie DATUM kun je dit aanpassen.
   <li>Met 'beeld->blokkeren->titels blokkeren' kun je de regel- en kolomkoppen altijd zichtbaar houden.
-  <li>
-  <li>
-  <li>
+  <li>De stappen tot nu toe zijn ook in <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI002.xlsx">dit Excel-bestand</A> te vinden.
+  <li>We kunnen het bestand een beetje opschonen, door overbodige kolommen op te ruimen. Beter is het om alles toch te bewaren, maar in een nieuw werkblad wijzigingen aan te brengen.
+  <li>Je ziet ook dat het KNMI geen decimalen gebruikt in de temperaturen. 23,1 graad wordt geschreven als 231. Om het voor ons beter leesbaar te maken, kunnen we die kolommen aanpassen. Dan zie je ook dat er overbodige spaties in de kolommen staan.
   <li>
   <li>
   <li>
