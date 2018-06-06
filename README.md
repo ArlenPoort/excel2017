@@ -21,13 +21,13 @@
   <li>De stappen tot nu toe zijn ook in <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI002.xlsx">dit Excel-bestand</A> te vinden.
   <li>We kunnen het bestand een beetje opschonen, door overbodige kolommen op te ruimen. Beter is het om alles toch te bewaren, maar in een nieuw werkblad wijzigingen aan te brengen.
   <li>Je ziet ook dat het KNMI geen decimalen gebruikt in de temperaturen. 23,1 graad wordt geschreven als 231. Om het voor ons beter leesbaar te maken, kunnen we die kolommen aanpassen. Dan zie je ook dat er overbodige spaties in de kolommen staan.
-  <li>Om het bestand toch een beetje handzaam, heb ik <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI003.xlsx">een nieuw Excel-bestand</A> gemaakt met alleen de relevante gegevens.
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
+  <li>Om het bestand toch een beetje handzaam te maken, heb ik <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI003.xlsx">een nieuw Excel-bestand</A> gemaakt met alleen de relevante gegevens. 
+  <li>In dit nieuwe bestand gaan we een draaitabel aanmaken. Als je het datumveld toevoegt aan het rijengebied, dan zie dat Excel uit zichzelf al iets bijzonders heeft gedaan, al hangt het van de versie op je eigen pc af wat er precies gebeurt. Het datumveld is gegroepeerd. Je kunt zelf bepalen hoe dit gebeurt door met je rechter muisknop op de data in kolom A te klikken. Als je dagen, maanden en jaren aanklikt en de rest uit, dan komen er drie datumonderdelen te voorschijn in het rijenvak rechts op je scherm. Die verschillende elementen kun je afzonderlijk naar aparte vakken slepen (filter, kolommen).
+  <li>Door daarmee te spelen, kun je bijvoorbeeld een indeling maken met jaren als rijen, maanden als filter en dagen als kolommen. Als je dan filtert op mei, heb je een handig overzicht.
+  <li>Dan kun je ook de waarden toevoegen aan de tabel: het veld Tmax naar waarden. Dan zie je dat er overal 1 komt te staan. Dat kun je aanpassen door te klikken op het pijltje->waardeveldinstellingen.
+  <li>Nu zie je dat 29 mei 2018 inderdaad de warmste 29 mei was sinds het begin van de metingen. De max van 29 mei 2018 is namelijk gelijk aan de max van alle 29 mei's.
+  <li>Maar voor wie de nuance zoekt: dat is niet het hele verhaal. Je kunt met bijvoorbeeld een voorwaardelijke opmaak snel ontdekken dat het op andere meidagen soms warmer is geweest. Vaak ook eerder in mei. Dus over een echt record kun je niet spreken. Dat zou je pas kunnen zeggen als het bijvoorbeeld nooit eerder in het jaar zo warm werd.
+  <li>Er is <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI004.xlsx">een versie van het bestand</A> beschikbaar inclusief de draaitabel en voorwaardelijke opmaak.
 </ul>
 
 <br><br><br>
