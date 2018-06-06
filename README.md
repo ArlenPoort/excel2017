@@ -15,9 +15,9 @@
   <li>Sla het bestand op, unzip het en open het in Excel.
   <li>Je ziet dat het bestand uit twee delen bestaat: een serie beschrijvingen (metadata) en de daadwerkelijke data.
   <li>De metadata kun je het best op een apart tabblad opslaan.
-  <li>De tabel met de data is gevormd als een csv: comma separated values. Die kunnen we netjes in kolommen plakken met `gegevens->tekst naar kolommen`
-  <li>
-  <li>
+  <li>De tabel met de data is gevormd als een csv: comma separated values. Die kunnen we netjes in kolommen plakken met 'gegevens->tekst naar kolommen'
+  <li>Het datumveld is ingedeeld als 'jjjjmmdd'. Zo kun je het makkelijk sorteren, maar Excel herkent dit niet als datum. Met de functie DATUM kun je dit aanpassen.
+  <li>Met 'beeld->blokkeren->titels blokkeren' kun je de regel- en kolomkoppen altijd zichtbaar houden.
   <li>
   <li>
   <li>
