@@ -9,7 +9,23 @@
 <hr>
 <br><br>
 <p>Om te kunnen checken of het inderdaad de warmste 29 mei was sinds 1901, kunnen we terecht bij het KNMI: https://www.knmi.nl/nederland-nu/klimatologie/daggegevens
-  
+<br>
+<ul>
+  <li>Kies voor station De Bilt.
+  <li>Sla het bestand op, unzip het en open het in Excel.
+  <li>Je ziet dat het bestand uit twee delen bestaat: een serie beschrijvingen (metadata) en de daadwerkelijke data.
+  <li>De metadata kun je het best op een apart tabblad opslaan.
+  <li>De tabel met de data is gevormd als een csv: comma separated values. Die kunnen we netjes in kolommen plakken met `gegevens->tekst naar kolommen`
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+</ul>
+
 <br><br><br>
 
 <h1>Een webservice gebruiken</h1>
