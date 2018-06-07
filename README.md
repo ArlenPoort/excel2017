@@ -37,7 +37,7 @@
 <br>
 <h1>Een webservice gebruiken</h1>
 Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/master/excelAPI.xlsx
-<br><br>
+<br>
 
 <h3>De coördinaten bij een adres zoeken, zodat je ze op een kaart kunt zetten</h3>
 <p>Het Kadaster onderhoudt een zogeheten locatieservice, een zogeheten API. Daar kun je een verzoek naar sturen. En je krijgt een antwoord met de gewenste informatie. Meestal geven API's antwoord in de vorm van een xml- of json-document.
@@ -47,12 +47,12 @@ Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/m
 
 <p>Hoe XPath precies werkt staat hier uitgelegd: 
 <br>https://www.w3schools.com/xml/xpath_syntax.asp
-
-<br><br>
+<hr>
+<br>
 <h3>Hoe lang duurt een reis van A naar B?</h3>
 <p>Documentatie over de Google Maps Distance Matrix API:
 <br>https://developers.google.com/maps/documentation/distance-matrix/intro
-<br><br>
+<br>
 
 <p>ht<i></i>tps://maps.googleapis.com/maps/api/distancematrix/
 <br>xml
@@ -66,8 +66,13 @@ Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/m
 <br><br>
 <p>De tijd/datum is 8 juni 2018, 8.30 uur (zie https://www.epochconverter.com/)
 
-
-<br><br>
-<hr><h3>Trump Tweets</h3>
+<hr>
+<br>
+<h3>Trump Tweets</h3>
 <p>Het Trump Twitter Archive: https://github.com/bpb27/trump_tweet_data_archive
 <p>Maar om json te kunnen laden, heb je wel Excel Power Query nodig. Meer info daarover: https://support.office.com/nl-nl/article/inleiding-tot-microsoft-power-query-voor-excel-6e92e2f4-2079-4e1f-bad5-89f6269cd605
+<hr>
+<br>
+<h3>Functie voorbeelden</h3>
+<p>https://github.com/ArlenPoort/excel2018/blob/master/FunctieVoorbeelden.xlsx
+  
