@@ -74,5 +74,6 @@ Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/m
 <hr>
 <br>
 <h3>Functie voorbeelden</h3>
-<p>https://github.com/ArlenPoort/excel2018/blob/master/FunctieVoorbeelden.xlsx
+<p><A HREF="https://github.com/ArlenPoort/excel2018/raw/master/FunctieVoorbeelden.xlsx">In dit bestand</A> staan enkele voorbeelden van functies, bijvoorbeeld om leeftijden uit te rekenen op basis van geboortedata.
+  
   
