@@ -29,9 +29,12 @@
   <li>Maar voor wie de nuance zoekt: dat is niet het hele verhaal. Je kunt met bijvoorbeeld een voorwaardelijke opmaak snel ontdekken dat het op andere meidagen soms warmer is geweest. Vaak ook eerder in mei. Dus over een echt record kun je niet spreken. Dat zou je pas kunnen zeggen als het bijvoorbeeld nooit eerder in het jaar zo warm werd.
   <li>Er is <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI004.xlsx">een versie van het bestand</A> beschikbaar inclusief de draaitabel en voorwaardelijke opmaak.
 </ul>
-
-<br><br><br>
-
+<hr>
+<h3>Rekenen aan hittegolven</h3>
+<p>Met hetzelfde bestand kunnen we tal van andere berekeningen uitvoeren. Een voorbeeld is: hittegolven. Volgens het KNMI is er sprake van een hittegolf als het minimaal vijf dagen achtereen warmer is dan 25 graden. Bovendien moet het gedurende drie dagen warmer zijn dan 30 graden. Maar hoe herkent Excel een hittegolf? Hoeveel hittegolven zijn er sinds 1901 geweest? Hoe lang duurden ze? En komen ze vaker voor?
+<p>Aan de hand van <A HREF="https://github.com/ArlenPoort/excel2018/raw/master/KNMI005.xlsx">dit bestand</A> worden al die vragen beantwoord.
+<hr>
+<br>
 <h1>Een webservice gebruiken</h1>
 Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/master/excelAPI.xlsx
 <br><br>
