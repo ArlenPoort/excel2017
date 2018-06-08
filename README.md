@@ -63,7 +63,7 @@ Hiervoor gebruiken we dit bestand: https://github.com/ArlenPoort/excel2018/raw/m
 <br>Marten%20Meesweg%2035%203068AV%20Rotterdam
 <br>&mode=transit
 <br>&departure_time=1528439400
-<br>&key=AIzaSyCzgtvqLFA2ExQ-eM20GXqWs7NAOPE4grQ
+<br>&key=[hier je API-key]
 <br><br>
 <p>De tijd/datum is 8 juni 2018, 8.30 uur (zie https://www.epochconverter.com/)
 
